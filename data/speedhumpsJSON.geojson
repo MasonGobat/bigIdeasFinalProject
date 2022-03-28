@@ -1,0 +1,1592 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92606218650681,
+                    40.41983539021447,
+                    430808404.0
+                ],
+                "type": "Point"
+            },
+            "id": 430808404,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "4337",
+                "id": 430808404,
+                "hump_id": "1",
+                "locator_street": "Saline St",
+                "pavement": "9257"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92620811182647,
+                    40.422239408151434,
+                    25169591.0
+                ],
+                "type": "Point"
+            },
+            "id": 25169591,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "4224",
+                "id": 25169591,
+                "hump_id": "10",
+                "locator_street": "Saline St",
+                "pavement": "4673"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.99930683002206,
+                    40.391642935981416,
+                    2056880845.0
+                ],
+                "type": "Point"
+            },
+            "id": 2056880845,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2146",
+                "id": 2056880845,
+                "hump_id": "11",
+                "locator_street": "Jacob St",
+                "pavement": "17688"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.99925855025583,
+                    40.3924253462207,
+                    1735565853.0
+                ],
+                "type": "Point"
+            },
+            "id": 1735565853,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2082",
+                "id": 1735565853,
+                "hump_id": "12",
+                "locator_street": "Jacob St",
+                "pavement": "17688"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9994013778885,
+                    40.393264435354325,
+                    857069875.0
+                ],
+                "type": "Point"
+            },
+            "id": 857069875,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2013",
+                "id": 857069875,
+                "hump_id": "13",
+                "locator_street": "Jacob St",
+                "pavement": "17688"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.99961059018892,
+                    40.39417960768287,
+                    1822275525.0
+                ],
+                "type": "Point"
+            },
+            "id": 1822275525,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1937",
+                "id": 1822275525,
+                "hump_id": "14",
+                "locator_street": "Jacob St",
+                "pavement": "17688"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.93385519882611,
+                    40.43685206146036,
+                    185819892.0
+                ],
+                "type": "Point"
+            },
+            "id": 185819892,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "5334",
+                "id": 185819892,
+                "hump_id": "15",
+                "locator_street": "Darlington Rd",
+                "pavement": "11054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.93372907814265,
+                    40.43628253701185,
+                    1324735109.0
+                ],
+                "type": "Point"
+            },
+            "id": 1324735109,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "5362",
+                "id": 1324735109,
+                "hump_id": "16",
+                "locator_street": "Darlington Rd",
+                "pavement": "11054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9477245614451,
+                    40.463524329857016,
+                    767516949.0
+                ],
+                "type": "Point"
+            },
+            "id": 767516949,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "257",
+                "id": 767516949,
+                "hump_id": "17",
+                "locator_street": "Edmond St",
+                "pavement": "11675"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.94762800191782,
+                    40.46424366439505,
+                    659399120.0
+                ],
+                "type": "Point"
+            },
+            "id": 659399120,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "233",
+                "id": 659399120,
+                "hump_id": "18",
+                "locator_street": "Edmond St",
+                "pavement": "11675"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.94752876018167,
+                    40.464894630003485,
+                    2099745550.0
+                ],
+                "type": "Point"
+            },
+            "id": 2099745550,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "211",
+                "id": 2099745550,
+                "hump_id": "19",
+                "locator_street": "Edmond St",
+                "pavement": "14837"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91204011335876,
+                    40.425039869143646,
+                    1520886592.0
+                ],
+                "type": "Point"
+            },
+            "id": 1520886592,
+            "properties": {
+                "speed_hump_material": "",
+                "locator_address_number": "",
+                "id": 1520886592,
+                "hump_id": "2",
+                "locator_street": "Summerset Dr",
+                "pavement": "15346"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.96223285581833,
+                    40.4587402317148,
+                    169785827.0
+                ],
+                "type": "Point"
+            },
+            "id": 169785827,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3417",
+                "id": 169785827,
+                "hump_id": "20",
+                "locator_street": "Melwood Ave",
+                "pavement": "4487"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.96071368811131,
+                    40.45935854046842,
+                    542678312.0
+                ],
+                "type": "Point"
+            },
+            "id": 542678312,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3549",
+                "id": 542678312,
+                "hump_id": "21",
+                "locator_street": "Melwood Ave",
+                "pavement": "15250"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95953603984238,
+                    40.45975221270191,
+                    1766344814.0
+                ],
+                "type": "Point"
+            },
+            "id": 1766344814,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3628",
+                "id": 1766344814,
+                "hump_id": "22",
+                "locator_street": "Melwood Ave",
+                "pavement": "15250"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95710977794046,
+                    40.46005664221033,
+                    1987150310.0
+                ],
+                "type": "Point"
+            },
+            "id": 1987150310,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3807",
+                "id": 1987150310,
+                "hump_id": "23",
+                "locator_street": "Melwood Ave",
+                "pavement": "14629"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95620858875778,
+                    40.459345346780296,
+                    1604696067.0
+                ],
+                "type": "Point"
+            },
+            "id": 1604696067,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "677",
+                "id": 1604696067,
+                "hump_id": "24",
+                "locator_street": "Gold Way",
+                "pavement": "1755"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.96328182730193,
+                    40.45829723966184,
+                    1048001283.0
+                ],
+                "type": "Point"
+            },
+            "id": 1048001283,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3320",
+                "id": 1048001283,
+                "hump_id": "25",
+                "locator_street": "Melwood Ave",
+                "pavement": "1781"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95825201484318,
+                    40.46001458042855,
+                    504225575.0
+                ],
+                "type": "Point"
+            },
+            "id": 504225575,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3716",
+                "id": 504225575,
+                "hump_id": "26",
+                "locator_street": "Melwood Ave",
+                "pavement": "14629"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.89756430751963,
+                    40.452641998621395,
+                    915266693.0
+                ],
+                "type": "Point"
+            },
+            "id": 915266693,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "7258",
+                "id": 915266693,
+                "hump_id": "27",
+                "locator_street": "Finance St",
+                "pavement": "13905"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.89625538951485,
+                    40.45212766292209,
+                    1459072736.0
+                ],
+                "type": "Point"
+            },
+            "id": 1459072736,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "7351",
+                "id": 1459072736,
+                "hump_id": "28",
+                "locator_street": "Finance St",
+                "pavement": "15567"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.894949153722,
+                    40.45160924121122,
+                    769108618.0
+                ],
+                "type": "Point"
+            },
+            "id": 769108618,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "7444",
+                "id": 769108618,
+                "hump_id": "29",
+                "locator_street": "Finance St",
+                "pavement": "2949"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95452061578901,
+                    40.45674594033611,
+                    858537521.0
+                ],
+                "type": "Point"
+            },
+            "id": 858537521,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "511",
+                "id": 858537521,
+                "hump_id": "3",
+                "locator_street": "Gold Way",
+                "pavement": "1755"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.89332641726547,
+                    40.450988762724805,
+                    62663301.0
+                ],
+                "type": "Point"
+            },
+            "id": 62663301,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "7546",
+                "id": 62663301,
+                "hump_id": "30",
+                "locator_street": "Finance St",
+                "pavement": "16466"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.01042848912827,
+                    40.433686076116565,
+                    1123402373.0
+                ],
+                "type": "Point"
+            },
+            "id": 1123402373,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "333",
+                "id": 1123402373,
+                "hump_id": "31",
+                "locator_street": "Grandview Ave",
+                "pavement": "13597"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.00868982767437,
+                    40.43265127167473,
+                    1446333174.0
+                ],
+                "type": "Point"
+            },
+            "id": 1446333174,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "236",
+                "id": 1446333174,
+                "hump_id": "32",
+                "locator_street": "Grandview Ave",
+                "pavement": "9528"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.00756618337765,
+                    40.432029209353935,
+                    960947689.0
+                ],
+                "type": "Point"
+            },
+            "id": 960947689,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "166",
+                "id": 960947689,
+                "hump_id": "33",
+                "locator_street": "Grandview Ave",
+                "pavement": "5426"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.98473743629096,
+                    40.430129903007156,
+                    1745441221.0
+                ],
+                "type": "Point"
+            },
+            "id": 1745441221,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1350",
+                "id": 1745441221,
+                "hump_id": "34",
+                "locator_street": "Muriel St",
+                "pavement": "1901"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.98379780342387,
+                    40.43015818266339,
+                    539814373.0
+                ],
+                "type": "Point"
+            },
+            "id": 539814373,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1447",
+                "id": 539814373,
+                "hump_id": "35",
+                "locator_street": "Muriel St",
+                "pavement": "16492"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.98299314071673,
+                    40.430178165230544,
+                    472717588.0
+                ],
+                "type": "Point"
+            },
+            "id": 472717588,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1555",
+                "id": 472717588,
+                "hump_id": "36",
+                "locator_street": "Muriel St",
+                "pavement": "337"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.94966978479671,
+                    40.440740887923866,
+                    1535089035.0
+                ],
+                "type": "Point"
+            },
+            "id": 1535089035,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "",
+                "id": 1535089035,
+                "hump_id": "37",
+                "locator_street": "Boundary St",
+                "pavement": "4523"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.94921112705254,
+                    40.4413737091142,
+                    1681038951.0
+                ],
+                "type": "Point"
+            },
+            "id": 1681038951,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "",
+                "id": 1681038951,
+                "hump_id": "38",
+                "locator_street": "Boundary St",
+                "pavement": "4523"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.94841094374924,
+                    40.44238730066216,
+                    1892022841.0
+                ],
+                "type": "Point"
+            },
+            "id": 1892022841,
+            "properties": {
+                "speed_hump_material": "",
+                "locator_address_number": "",
+                "id": 1892022841,
+                "hump_id": "39",
+                "locator_street": "Boundary St",
+                "pavement": "4523"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95489880725718,
+                    40.45733303071922,
+                    297775878.0
+                ],
+                "type": "Point"
+            },
+            "id": 297775878,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "547",
+                "id": 297775878,
+                "hump_id": "4",
+                "locator_street": "Gold Way",
+                "pavement": "1755"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.94766732863528,
+                    40.44319224891897,
+                    905381373.0
+                ],
+                "type": "Point"
+            },
+            "id": 905381373,
+            "properties": {
+                "speed_hump_material": "",
+                "locator_address_number": "",
+                "id": 905381373,
+                "hump_id": "40",
+                "locator_street": "Boundary St",
+                "pavement": "4523"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.94714309101157,
+                    40.44396795653812,
+                    111384140.0
+                ],
+                "type": "Point"
+            },
+            "id": 111384140,
+            "properties": {
+                "speed_hump_material": "",
+                "locator_address_number": "",
+                "id": 111384140,
+                "hump_id": "41",
+                "locator_street": "Boundary St",
+                "pavement": "4523"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.96145904792311,
+                    40.45525911798791,
+                    207195830.0
+                ],
+                "type": "Point"
+            },
+            "id": 207195830,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3419",
+                "id": 207195830,
+                "hump_id": "42",
+                "locator_street": "Webster Ave",
+                "pavement": "2077"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.96089854649777,
+                    40.45563800482639,
+                    1185081897.0
+                ],
+                "type": "Point"
+            },
+            "id": 1185081897,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3440",
+                "id": 1185081897,
+                "hump_id": "43",
+                "locator_street": "Webster Ave",
+                "pavement": "2077"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95998852621324,
+                    40.45619941752284,
+                    17647184.0
+                ],
+                "type": "Point"
+            },
+            "id": 17647184,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3473",
+                "id": 17647184,
+                "hump_id": "44",
+                "locator_street": "Webster Ave",
+                "pavement": "2077"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95885856527931,
+                    40.45671676294572,
+                    443773362.0
+                ],
+                "type": "Point"
+            },
+            "id": 443773362,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "3510",
+                "id": 443773362,
+                "hump_id": "45",
+                "locator_street": "Webster Ave",
+                "pavement": "2077"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91577978114024,
+                    40.47134257771545,
+                    1477322021.0
+                ],
+                "type": "Point"
+            },
+            "id": 1477322021,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "931",
+                "id": 1477322021,
+                "hump_id": "46",
+                "locator_street": "Heberton St",
+                "pavement": "17804"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91654665144347,
+                    40.46950466839626,
+                    1782897983.0
+                ],
+                "type": "Point"
+            },
+            "id": 1782897983,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "825",
+                "id": 1782897983,
+                "hump_id": "47",
+                "locator_street": "Heberton St",
+                "pavement": "12544"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91239167082125,
+                    40.43494296336052,
+                    586776709.0
+                ],
+                "type": "Point"
+            },
+            "id": 586776709,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2150",
+                "id": 586776709,
+                "hump_id": "48",
+                "locator_street": "Beechwood Blvd",
+                "pavement": "19509"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91205615330156,
+                    40.43548043856618,
+                    728767537.0
+                ],
+                "type": "Point"
+            },
+            "id": 728767537,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2113",
+                "id": 728767537,
+                "hump_id": "49",
+                "locator_street": "Beechwood Blvd",
+                "pavement": "11261"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.955354814167,
+                    40.458061105882,
+                    1061197751.0
+                ],
+                "type": "Point"
+            },
+            "id": 1061197751,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "593",
+                "id": 1061197751,
+                "hump_id": "5",
+                "locator_street": "Gold Way",
+                "pavement": "1755"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91017860698867,
+                    40.4356968401868,
+                    376448676.0
+                ],
+                "type": "Point"
+            },
+            "id": 376448676,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2050",
+                "id": 376448676,
+                "hump_id": "50",
+                "locator_street": "Beechwood Blvd",
+                "pavement": "11261"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.90941538444243,
+                    40.435817473571596,
+                    946114672.0
+                ],
+                "type": "Point"
+            },
+            "id": 946114672,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2051",
+                "id": 946114672,
+                "hump_id": "51",
+                "locator_street": "Beechwood Blvd",
+                "pavement": "19508"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.98979684087038,
+                    40.38899796442588,
+                    651962943.0
+                ],
+                "type": "Point"
+            },
+            "id": 651962943,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2264",
+                "id": 651962943,
+                "hump_id": "52",
+                "locator_street": "Spokane St",
+                "pavement": "11533"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.99017723160486,
+                    40.38975196804802,
+                    2109927867.0
+                ],
+                "type": "Point"
+            },
+            "id": 2109927867,
+            "properties": {
+                "speed_hump_material": "",
+                "locator_address_number": "2230",
+                "id": 2109927867,
+                "hump_id": "53",
+                "locator_street": "Spokane St",
+                "pavement": "2779"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92080190789653,
+                    40.416255124186186,
+                    494800222.0
+                ],
+                "type": "Point"
+            },
+            "id": 494800222,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1761",
+                "id": 494800222,
+                "hump_id": "54",
+                "locator_street": "Parkview Blvd",
+                "pavement": "20126"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9205962721449,
+                    40.41632659793099,
+                    99969678.0
+                ],
+                "type": "Point"
+            },
+            "id": 99969678,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1742",
+                "id": 99969678,
+                "hump_id": "55",
+                "locator_street": "Parkview Blvd",
+                "pavement": "20125"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91714081872756,
+                    40.418348414907065,
+                    1849226818.0
+                ],
+                "type": "Point"
+            },
+            "id": 1849226818,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1556",
+                "id": 1849226818,
+                "hump_id": "56",
+                "locator_street": "Parkview Blvd",
+                "pavement": "19232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91531691659623,
+                    40.42004057148701,
+                    1255545961.0
+                ],
+                "type": "Point"
+            },
+            "id": 1255545961,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1364",
+                "id": 1255545961,
+                "hump_id": "57",
+                "locator_street": "Parkview Blvd",
+                "pavement": "19228"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.91406521883641,
+                    40.4206327476865,
+                    2078095266.0
+                ],
+                "type": "Point"
+            },
+            "id": 2078095266,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "1281",
+                "id": 2078095266,
+                "hump_id": "58",
+                "locator_street": "Parkview Blvd",
+                "pavement": "19227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95586674458016,
+                    40.45880609751137,
+                    98045273.0
+                ],
+                "type": "Point"
+            },
+            "id": 98045273,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "650",
+                "id": 98045273,
+                "hump_id": "59",
+                "locator_street": "Gold Way",
+                "pavement": "1755"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92587940765641,
+                    40.42480381023082,
+                    1043573391.0
+                ],
+                "type": "Point"
+            },
+            "id": 1043573391,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "4017",
+                "id": 1043573391,
+                "hump_id": "6",
+                "locator_street": "Saline St",
+                "pavement": "18618"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.01444038818562,
+                    40.48493717555288,
+                    1998576727.0
+                ],
+                "type": "Point"
+            },
+            "id": 1998576727,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "114",
+                "id": 1998576727,
+                "hump_id": "60",
+                "locator_street": "Venture St",
+                "pavement": "15080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.01354631872832,
+                    40.485236378558284,
+                    1009680309.0
+                ],
+                "type": "Point"
+            },
+            "id": 1009680309,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "225",
+                "id": 1009680309,
+                "hump_id": "61",
+                "locator_street": "Venture St",
+                "pavement": "15080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0121605105151,
+                    40.48519557821333,
+                    638539882.0
+                ],
+                "type": "Point"
+            },
+            "id": 638539882,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "320",
+                "id": 638539882,
+                "hump_id": "62",
+                "locator_street": "Venture St",
+                "pavement": "15080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.01088199066247,
+                    40.485229578664715,
+                    1908632923.0
+                ],
+                "type": "Point"
+            },
+            "id": 1908632923,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "408",
+                "id": 1908632923,
+                "hump_id": "63",
+                "locator_street": "Venture St",
+                "pavement": "3020"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9754138063386,
+                    40.42328076171086,
+                    1233595442.0
+                ],
+                "type": "Point"
+            },
+            "id": 1233595442,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2105",
+                "id": 1233595442,
+                "hump_id": "64",
+                "locator_street": "Mission St",
+                "pavement": "18058"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.97297017409555,
+                    40.423148052435806,
+                    1381403865.0
+                ],
+                "type": "Point"
+            },
+            "id": 1381403865,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2316",
+                "id": 1381403865,
+                "hump_id": "65",
+                "locator_street": "Mission St",
+                "pavement": "15541"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.97194914663731,
+                    40.42295271011121,
+                    932567435.0
+                ],
+                "type": "Point"
+            },
+            "id": 932567435,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2504",
+                "id": 932567435,
+                "hump_id": "66",
+                "locator_street": "Mission St",
+                "pavement": "15541"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.97115476584347,
+                    40.422767576853616,
+                    1237386520.0
+                ],
+                "type": "Point"
+            },
+            "id": 1237386520,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2512",
+                "id": 1237386520,
+                "hump_id": "67",
+                "locator_street": "Mission St",
+                "pavement": "15541"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9906387679873,
+                    40.39063537559221,
+                    1391879630.0
+                ],
+                "type": "Point"
+            },
+            "id": 1391879630,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "2212",
+                "id": 1391879630,
+                "hump_id": "68",
+                "locator_street": "Spokane St",
+                "pavement": "2779"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.98924401897128,
+                    40.39127071107821,
+                    942849531.0
+                ],
+                "type": "Point"
+            },
+            "id": 942849531,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "169",
+                "id": 942849531,
+                "hump_id": "69",
+                "locator_street": "Parkfield St",
+                "pavement": "7643"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9262171435152,
+                    40.4237660022425,
+                    27058676.0
+                ],
+                "type": "Point"
+            },
+            "id": 27058676,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "4087",
+                "id": 27058676,
+                "hump_id": "7",
+                "locator_street": "Saline St",
+                "pavement": "18618"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.99075101640886,
+                    40.3923321990163,
+                    730300347.0
+                ],
+                "type": "Point"
+            },
+            "id": 730300347,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "215",
+                "id": 730300347,
+                "hump_id": "70",
+                "locator_street": "Parkfield St",
+                "pavement": "10908"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.99100870044232,
+                    40.3929170889084,
+                    186519032.0
+                ],
+                "type": "Point"
+            },
+            "id": 186519032,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "227",
+                "id": 186519032,
+                "hump_id": "71",
+                "locator_street": "Parkfield St",
+                "pavement": "10908"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92857659823781,
+                    40.46912962723659,
+                    604863741.0
+                ],
+                "type": "Point"
+            },
+            "id": 604863741,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "5544",
+                "id": 604863741,
+                "hump_id": "72",
+                "locator_street": "Black St",
+                "pavement": "9592"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92966065785076,
+                    40.46950882021602,
+                    611252031.0
+                ],
+                "type": "Point"
+            },
+            "id": 611252031,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "5512",
+                "id": 611252031,
+                "hump_id": "73",
+                "locator_street": "Black St",
+                "pavement": "9592"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.93362461548656,
+                    40.47130290895825,
+                    1918921288.0
+                ],
+                "type": "Point"
+            },
+            "id": 1918921288,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "5365",
+                "id": 1918921288,
+                "hump_id": "74",
+                "locator_street": "Mossfield St",
+                "pavement": "19094"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.93436694820059,
+                    40.47201471848165,
+                    2047879882.0
+                ],
+                "type": "Point"
+            },
+            "id": 2047879882,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "5343",
+                "id": 2047879882,
+                "hump_id": "75",
+                "locator_street": "Mossfield St",
+                "pavement": "19094"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.99064669539611,
+                    40.38398360261361,
+                    1379652923.0
+                ],
+                "type": "Point"
+            },
+            "id": 1379652923,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "622",
+                "id": 1379652923,
+                "hump_id": "76",
+                "locator_street": "Maytide St",
+                "pavement": "15244"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.98649777954647,
+                    40.38449785108276,
+                    965432088.0
+                ],
+                "type": "Point"
+            },
+            "id": 965432088,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "378",
+                "id": 965432088,
+                "hump_id": "77",
+                "locator_street": "Maytide St",
+                "pavement": "15244"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9826260347563,
+                    40.384358536734375,
+                    724005157.0
+                ],
+                "type": "Point"
+            },
+            "id": 724005157,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "217",
+                "id": 724005157,
+                "hump_id": "78",
+                "locator_street": "Maytide St",
+                "pavement": "16410"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.98382743068336,
+                    40.38444368643839,
+                    1352764849.0
+                ],
+                "type": "Point"
+            },
+            "id": 1352764849,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "273",
+                "id": 1352764849,
+                "hump_id": "79",
+                "locator_street": "Maytide St",
+                "pavement": "16410"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92612278508761,
+                    40.42085364527984,
+                    1858275712.0
+                ],
+                "type": "Point"
+            },
+            "id": 1858275712,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "4305",
+                "id": 1858275712,
+                "hump_id": "8",
+                "locator_street": "Saline St",
+                "pavement": "9257"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.92609864520381,
+                    40.420318646470264,
+                    368363598.0
+                ],
+                "type": "Point"
+            },
+            "id": 368363598,
+            "properties": {
+                "speed_hump_material": "Asphalt",
+                "locator_address_number": "4321",
+                "id": 368363598,
+                "hump_id": "9",
+                "locator_street": "Saline St",
+                "pavement": "9257"
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "meuse",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "type": "FeatureCollection"
+}
